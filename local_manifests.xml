@@ -16,7 +16,7 @@
   <project path="device/motorola/sm6150-common"
            name="android_device_motorola_sm6150-common-11"
            remote="frost81"
-           revision="dot" />
+           revision="dot2" />
            
   <project path="kernel/motorola/sm6150"
            name="android_kernel_motorola_sm6150"
