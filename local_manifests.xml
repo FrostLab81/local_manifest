@@ -19,17 +19,12 @@
            revision="dot" />
            
   <project path="kernel/motorola/sm6150"
-           name="kernel_motorola_liber"
+           name="android_kernel_motorola_sm6150"
            remote="frost"
-           revision="sap" />
-  
-  <project path="vendor/motorola/odessa"
-           name="vendor_motorola_odessa"
-           remote="frost81"
-           revision="lineage-18.1" /> 
+           revision="lineage-18.1" />
 
-  <project path="vendor/motorola/sm6150-common"
-           name="vendor_motorola_sm6150-common"
+  <project path="vendor/motorola"
+           name="proprietary_vendor_motorola"
            remote="frost81"
-           revision="lineage-18.1" />  
+           revision="lineage-20.0" />  
 </manifest>
